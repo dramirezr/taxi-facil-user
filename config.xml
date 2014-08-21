@@ -3,17 +3,17 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id = "com.taxifacil.user"
+        id = "com.ec.mitaxijj.user"
         version = "1.0.0">
 
-    <name>Taxi Fácil</name>
+    <name>MiTaxiJJ</name>
 
     <description>
-        Bienvenidos a Taxi Fácil, su aplicación para solicitar servicio de taxi fácil, rápido, eficente y seguro. Powered by Good People Technologies - 2013 
+        Cooperativa JJ presenta su aplicación para solicitar servicio de taxi en Quito - Ecuador, fácil, rápido, eficente y seguro. Powered by Good People Technologies - 2014 
     </description>
 
     <author href="http://www.facil.com.co" email="info@facil.com.co">
-        © 2013 Powered by Good People Technologies.
+        Powered by Good People Technologies.
     </author>
 
     <!--
