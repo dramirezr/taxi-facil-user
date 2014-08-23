@@ -6,14 +6,14 @@
         id = "com.ec.mitaxijj.user"
         version = "1.0.0">
 
-    <name>MiTaxiJJ</name>
+    <name>Mi Taxi JJ</name>
 
     <description>
-        Cooperativa JJ presenta su aplicación para solicitar servicio de taxi en Quito - Ecuador, fácil, rápido, eficente y seguro. Powered by Good People Technologies - 2014 
+        Cooperativa JJ presenta su aplicación para solicitar servicio de taxi en Quito - Ecuador, fácil, rápido, eficente y seguro. by Geocommerce Cia. Ltda. Quito, Ecuador - 2014
     </description>
 
-    <author href="http://www.facil.com.co" email="info@facil.com.co">
-        Powered by Good People Technologies.
+    <author href="http://www.geocommerce.com.ec" email="diego_ramirez_romero@hotmail.com">
+        Geocommerce Cia. Ltda. Quito, Ecuador - 2014
     </author>
 
     <!--
